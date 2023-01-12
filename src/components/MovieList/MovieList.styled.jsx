@@ -21,7 +21,7 @@ export const Container = styled.div`
 export const ListContainer = styled.ul`
   display: flex;
   flex-wrap: wrap;
-  gap: 30px 11%;
+  gap: 30px 9%;
   margin-left: 0 auto;
 `;
 
